@@ -1,4 +1,4 @@
-# Diffusion Models 4 dummies**
+# Diffusion Models 4 dummies
 
 Score-based generative modelling with stochastic differential equations (SDEs). The project implements, trains and evaluates diffusion models on MNIST and SVHN colour digits, covering VE/VP processes, multiple noise schedules, three samplers, classifier-free guidance and inpainting.
 
